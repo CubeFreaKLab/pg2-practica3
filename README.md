@@ -7,7 +7,6 @@ Esta API proporciona información detallada sobre la serie **South Park**. Con e
 
 
 ### 1. Personajes
-**Atributos**: 
 - Nombre
 - Edad
 - Género
@@ -15,20 +14,17 @@ Esta API proporciona información detallada sobre la serie **South Park**. Con e
 - Descripción
 - Primera aparición
 
-### 2. Lugares
-**Atributos**: 
+### 2. Lugares 
 - Nombre
 - Tipo
 - Descripcion
 
 ### 3. Temporadas
-**Atributos**: 
 - Numero de temporada
 - Cantidad de episodios
 - Año de estreno
 
-### 4. Episodios
-**Atributos**: 
+### 4. Episodios 
 - Título
 - Temporada
 - Episodio
