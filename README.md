@@ -1,32 +1,20 @@
 # PG2: PRÁCTICA 3
 
-## API DE SOUTH PARK
+## API DE PELICULAS Y SERIES
 
 ### Descripcion
-Esta API proporciona información detallada sobre la serie **South Park**. Con esta API, los usuarios pueden acceder a datos estructurados sobre las siguientes entidades:
+Esta API permite crear, leer, actualizar y eliminar (CRUD) datos relacionados con:
 
+- **Películas**: Información sobre títulos, descripciones, fechas de estreno, duración, géneros y directores.
+- **Series**: Datos de series televisivas, incluyendo temporadas, episodios, creadores y fechas de lanzamiento.
+- **Actores**: Datos biográficos de actores y actrices que participan en películas y series.
+- **Roles**: La relación entre actores y los personajes que interpretan en películas o series.
 
-### 1. Personajes
-- Nombre
-- Edad
-- Género
-- Ocupación
-- Descripción
-- Primera aparición
+### ¿Para qué sirve esta API?
 
-### 2. Lugares 
-- Nombre
-- Tipo
-- Descripcion
+Esta API está diseñada para desarrolladores y proyectos que necesiten una base de datos organizada y accesible sobre contenido audiovisual. Algunas aplicaciones comunes incluyen:
 
-### 3. Temporadas
-- Numero de temporada
-- Cantidad de episodios
-- Año de estreno
-
-### 4. Episodios 
-- Título
-- Temporada
-- Episodio
-- Fecha de emisión
-- Sinopsis
+- Aplicaciones web o móviles para catalogar y mostrar películas y series.
+- Plataformas de streaming que necesitan gestionar información sobre su contenido.
+- Proyectos educativos o de análisis de cine y televisión.
+- Cualquier sistema que requiera un backend para gestionar datos de entretenimiento.
